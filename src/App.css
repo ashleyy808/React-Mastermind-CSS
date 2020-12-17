@@ -1,0 +1,37 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  border-color: #FF1493;
+  box-shadow: 1px 1px 17px 1px #FF1493;
+}
+
+.App-header-footer {
+  height: 50px;
+  padding: 10px;
+  margin: 15px 0;
+  color: grey;
+  font-size: 18px;
+  text-align: center;
+}
+
+
+.App-controls {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-between;
+  margin-left: 20px;
+  
+}
+
+.App-header {
+  background-color: #222;
+  height: 50px;
+  padding: 10px;
+  color: white;
+  font-size: 22px;
+  text-align: center;
+}
+
+body {
+  background-color: #F8F9F9 ;
+}
